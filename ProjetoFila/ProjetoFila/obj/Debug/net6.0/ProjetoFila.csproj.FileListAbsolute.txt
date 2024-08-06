@@ -1,0 +1,15 @@
+C:\Users\jhona\source\repos\ProjetoFila\ProjetoFila\bin\Debug\net6.0\ProjetoFila.exe
+C:\Users\jhona\source\repos\ProjetoFila\ProjetoFila\bin\Debug\net6.0\ProjetoFila.deps.json
+C:\Users\jhona\source\repos\ProjetoFila\ProjetoFila\bin\Debug\net6.0\ProjetoFila.runtimeconfig.json
+C:\Users\jhona\source\repos\ProjetoFila\ProjetoFila\bin\Debug\net6.0\ProjetoFila.dll
+C:\Users\jhona\source\repos\ProjetoFila\ProjetoFila\bin\Debug\net6.0\ProjetoFila.pdb
+C:\Users\jhona\source\repos\ProjetoFila\ProjetoFila\obj\Debug\net6.0\ProjetoFila.csproj.AssemblyReference.cache
+C:\Users\jhona\source\repos\ProjetoFila\ProjetoFila\obj\Debug\net6.0\ProjetoFila.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhona\source\repos\ProjetoFila\ProjetoFila\obj\Debug\net6.0\ProjetoFila.AssemblyInfoInputs.cache
+C:\Users\jhona\source\repos\ProjetoFila\ProjetoFila\obj\Debug\net6.0\ProjetoFila.AssemblyInfo.cs
+C:\Users\jhona\source\repos\ProjetoFila\ProjetoFila\obj\Debug\net6.0\ProjetoFila.csproj.CoreCompileInputs.cache
+C:\Users\jhona\source\repos\ProjetoFila\ProjetoFila\obj\Debug\net6.0\ProjetoFila.dll
+C:\Users\jhona\source\repos\ProjetoFila\ProjetoFila\obj\Debug\net6.0\refint\ProjetoFila.dll
+C:\Users\jhona\source\repos\ProjetoFila\ProjetoFila\obj\Debug\net6.0\ProjetoFila.pdb
+C:\Users\jhona\source\repos\ProjetoFila\ProjetoFila\obj\Debug\net6.0\ProjetoFila.genruntimeconfig.cache
+C:\Users\jhona\source\repos\ProjetoFila\ProjetoFila\obj\Debug\net6.0\ref\ProjetoFila.dll
